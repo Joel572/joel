@@ -3,7 +3,6 @@
 <Font Face="Header 1"><H3><font  color="3349FF"> Hola Mon </font></H3></font>
 </html>
 <body>
-<Font Face="Header 1"><H3><font color="3349FF"> Hola Mon </font></H3></Font>
 <img id="foto" border="1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNo4u8PZrbdSI8vzphG2Cs9tGuVpFvOmQ-nXaiv3k4zJEDNH6-Zw "
 width="200">
 </body>
